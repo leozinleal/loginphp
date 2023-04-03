@@ -10,7 +10,7 @@
    {
     echo "Erro";
    }
-   else  joaotavo
+   else 
    {
     echo "conexao efetuada";
    } */
